@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jhocRebR79AaW8wMe0tJgnp+1LrdlHIjwup4yAB6JjZiXIoNiekG5hy5Fwd3rYl2qX7KWpGXZ5k8lPpyCDRV0A==",
+  "success": true,
+  "projectFilePath": "/Users/abdurahman/cpsc410_project1_team22/first.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/abdurahman/cpsc410_project1_team22/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
